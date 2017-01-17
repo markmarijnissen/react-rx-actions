@@ -1,0 +1,29 @@
+{
+  "name": "react-rx-actions",
+  "version": "0.1.0",
+  "description": "Connect Rx with React using an Action Stream",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markmarijnissen/react-rx-actions.git"
+  },
+  "keywords": [
+    "rxjs",
+    "rx",
+    "react",
+    "action",
+    "flux"
+  ],
+  "author": "Mark Marijnissen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markmarijnissen/react-rx-actions/issues"
+  },
+  "homepage": "https://github.com/markmarijnissen/react-rx-actions#readme",
+  "dependencies": {
+    "rx-debug": "^0.1.0"
+  }
+}
