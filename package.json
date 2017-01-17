@@ -2,7 +2,7 @@
   "name": "react-rx-actions",
   "version": "0.1.0",
   "description": "Connect Rx with React using an Action Stream",
-  "main": "index.jsx",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -25,5 +25,10 @@
   "homepage": "https://github.com/markmarijnissen/react-rx-actions#readme",
   "dependencies": {
     "rx-debug": "^0.1.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-plugin-transform-react-jsx": "^6.8.0",
+    "babel-preset-env": "^1.1.8"
   }
 }
